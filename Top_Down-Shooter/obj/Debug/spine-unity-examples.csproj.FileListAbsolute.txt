@@ -1,0 +1,2 @@
+D:\Unity Projects\Top_Down-Shooter\obj\Debug\spine-unity-examples.csproj.AssemblyReference.cache
+D:\Unity Projects\Top_Down-Shooter\obj\Debug\spine-unity-examples.csproj.CoreCompileInputs.cache

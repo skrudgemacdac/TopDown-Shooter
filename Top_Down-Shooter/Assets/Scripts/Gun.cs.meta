@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6615a3e25eae5c842bbdc9ab2e50eb11
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {instanceID: 0}
+  - shotPoint: {instanceID: 0}
+  - joystick: {instanceID: 0}
+  - bulletEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

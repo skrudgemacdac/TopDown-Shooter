@@ -1,0 +1,43 @@
+Player.png
+size:900,325
+filter:Linear,Linear
+pma:true
+scale:0.7
+Blood
+bounds:544,160,163,344
+offsets:19,14,194,374
+rotate:90
+Голова
+bounds:2,95,228,216
+rotate:90
+Нога лев 1
+bounds:637,26,97,132
+Нога лев 2
+bounds:340,2,79,107
+Нога прав 1
+bounds:502,30,97,133
+rotate:90
+Нога прав 2
+bounds:421,20,79,107
+Разрез
+bounds:162,11,176,82
+Рука лев 1
+bounds:2,7,78,86
+Рука лев 2
+bounds:736,84,74,162
+rotate:90
+Рука лев 3
+bounds:418,129,61,194
+Рука прав 1
+bounds:82,7,78,86
+Рука прав 2
+bounds:736,8,74,162
+rotate:90
+Рука прав 3
+bounds:481,129,61,194
+Слой 8
+bounds:220,111,212,97
+rotate:90
+Таз
+bounds:319,111,212,97
+rotate:90
